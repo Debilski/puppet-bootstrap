@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 function green { G='\033[0;32m'; NC='\033[0m'; echo -e "${G}$1${NC}"; }
 
