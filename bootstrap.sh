@@ -45,6 +45,8 @@ Finally, deploy with
 and test on your puppet master node:
 
     puppet agent -t
+
+(Try a couple of times and throw in a bunch of reboots.)
 ***
 EOF
 
